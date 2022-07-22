@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\bin\Debug\netcoreapp2.1\ŞekilUygulaması.deps.json
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\bin\Debug\netcoreapp2.1\ŞekilUygulaması.runtimeconfig.json
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\bin\Debug\netcoreapp2.1\ŞekilUygulaması.runtimeconfig.dev.json
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\bin\Debug\netcoreapp2.1\ŞekilUygulaması.dll
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\bin\Debug\netcoreapp2.1\ŞekilUygulaması.pdb
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.AssemblyInfo.cs
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.dll
+C:\Users\PC\source\repos\LoginUygulaması\ŞekilUygulaması\obj\Debug\netcoreapp2.1\ŞekilUygulaması.pdb
